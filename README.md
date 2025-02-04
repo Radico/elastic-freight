@@ -1,5 +1,7 @@
 # elastic-freight
 
+**NOTE: This repository is archived because it is unclear why it was forked from the open-source repo: https://github.com/simon-data/elastic-freight**
+
 ## Project and Rationale
 Bulk loading Elasticsearch indexes has always been a cumbersome process.
 While Elasticsearch has a bulk load API, making many requests to a live cluster in order to load the index can cause performance issues.
